@@ -15,28 +15,42 @@
 
 ---
 # Session 2 (15th August): ROS Basics.
-  * In this session, we introduce the course, the "Socio Formador" Manchester Robotics Ltd.
-  * We also provide the requirements for this course like Ubuntu / VM's, ROS, etc.
-  * Troubleshooting, tips and trick on how to install Ubuntu 20.02 and ROS Noetic are prvided for the students.
-  * This contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
+  * In this session, Rebeca introduce the basic concepts of ROS, such as ROS Master, Topics, Nodes, Messages, Services, etc.
+  * The first activity involves the creation of a simple telaker and listener nodes.
+  * In the second part, Rebeca shows how to make your own custom message and provides an example using the previous activity of publisher and subscriiber.
+  * The second activity consists on making a node with a custom message that publishes some required information.
+---
 
-### YouTube Video
+## YouTube Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IF-k6KhhRkE
 " target="_blank"><img src="http://img.youtube.com/vi/IF-k6KhhRkE/0.jpg" 
-alt="ROS Basics" width="240" height="180" border="10" /></a>
+alt="ROS Basics" width="300" border="10" /></a> 
+* https://www.youtube.com/watch?v=IF-k6KhhRkE&ab_channel=ManchesterRobotics
 
-https://www.youtube.com/watch?v=IF-k6KhhRkE&ab_channel=ManchesterRobotics
+---
 
+## Live recordings are stored in the following link
+ * [Live Session Recordings](https://www.dropbox.com/sh/uhmpl2ei2oy1ir5/AAAtzdgwZzpkZ52GWuBSXgT4a?dl=0)
 
-### Used Links:
+---
 
+### Useful Links:
+* [ROS book](https://www.cse.sc.edu/~jokane/agitr/)
+* [ROS Packages](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
+* [ROS Workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+* [Publisher and Subscribers](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
+* [Roslaunch](http://wiki.ros.org/roslaunch)
+* [Custom Messages](http://wiki.ros.org/ROS/Tutorials/CustomMessagePublisherSubscriber%28python%29)
+* [Define Custom Messages](http://wiki.ros.org/ROS/Tutorials/DefiningCustomMessages)
+* [Messages and Services](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv)
 
+---
 ### Previously Used Links: 
 #### Ubuntu
   * [Ubuntu Installation](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
 
 #### ROS
- * [ROS Installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
+  * [ROS Installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
 #### Virtual Machine (Google Drive): 
   * [VM Ware](https://drive.google.com/file/d/1Kqt8E69nB5pxYzyVztyoxF0UY9yCHLns/view)
