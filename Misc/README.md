@@ -13,4 +13,4 @@
 # Concentración en Sistemas Ciberfísicos
 
   ## Miscellaneous Files
-   * This folder is intended for containing any miscellaneous file used during the course.
+   * This folder is used for any miscellaneous files used during the course.
