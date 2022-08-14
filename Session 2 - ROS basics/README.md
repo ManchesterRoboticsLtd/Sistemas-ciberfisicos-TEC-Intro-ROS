@@ -14,20 +14,22 @@
 
 
 ---
-# Session 1 (8th August): Introductory session.
+# Session 2 (15th August): ROS Basics.
   * In this session, we introduce the course, the "Socio Formador" Manchester Robotics Ltd.
   * We also provide the requirements for this course like Ubuntu / VM's, ROS, etc.
   * Troubleshooting, tips and trick on how to install Ubuntu 20.02 and ROS Noetic are prvided for the students.
   * This contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
 
-
-### Used Links:
-# Camera Lens Attachment
-* Supplier instructions
-## YouTube Video
-[![Session 2](https://img.youtube.com/vi/IF-k6KhhRkE/0.jpg)](https://www.youtube.com/watch?v=IF-k6KhhRkE&ab_channel=ManchesterRobotics)
+### YouTube Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IF-k6KhhRkE
+" target="_blank"><img src="http://img.youtube.com/vi/IF-k6KhhRkE/0.jpg" 
+alt="ROS Basics" width="240" height="180" border="10" /></a>
 
 https://www.youtube.com/watch?v=IF-k6KhhRkE&ab_channel=ManchesterRobotics
+
+
+### Used Links:
+
 
 ### Previously Used Links: 
 #### Ubuntu
