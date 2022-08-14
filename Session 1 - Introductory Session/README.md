@@ -15,5 +15,19 @@
 
 ---
 # Session 1 (8th August): Introductory session.
+  * In this session, we introduce the course, the "Socio Formador" Manchester Robotics Ltd.
+  * We also provide the requirements for this course like Ubuntu / VM's, ROS, etc.
+  * Troubleshooting, tips and trick on how to install Ubuntu 20.02 and ROS Noetic are prvided for the students.
+  * This contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
 
-   * This contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
+
+### Used Links: 
+#### Ubuntu
+  * [Ubuntu Installation](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
+
+#### ROS
+ * [ROS Installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
+
+#### Virtual Machine (Google Drive): 
+  * [VM Ware](https://drive.google.com/file/d/1Kqt8E69nB5pxYzyVztyoxF0UY9yCHLns/view)
+  * [ROS Preinstalled VM](https://drive.google.com/file/d/1LCn433uN5pf8dcauWDagKEKjORsE3fZR/view)
