@@ -19,7 +19,12 @@
   * We also provide the requirements for this course like Ubuntu / VM's, ROS, etc.
   * Troubleshooting, tips and trick on how to install Ubuntu 20.02 and ROS Noetic are prvided for the students.
   * This contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
+---
 
+## Live recordings are stored in the following link
+ * [Live Session Recordings](https://www.dropbox.com/sh/uhmpl2ei2oy1ir5/AAAtzdgwZzpkZ52GWuBSXgT4a?dl=0)
+
+---
 
 ### Used Links: 
 #### Ubuntu
@@ -31,3 +36,4 @@
 #### Virtual Machine (Google Drive): 
   * [VM Ware](https://drive.google.com/file/d/1Kqt8E69nB5pxYzyVztyoxF0UY9yCHLns/view)
   * [ROS Preinstalled VM](https://drive.google.com/file/d/1LCn433uN5pf8dcauWDagKEKjORsE3fZR/view)
+ ---
