@@ -14,8 +14,13 @@
 
 
 ---
-# Session X (DATE): NAME.
-  * TBD.
+# Session 3 (22 Ago): Robot Simulation.
+  * For the first part of this session, an introduction to Differential Drive Systems and its systems Kinematics will be presented. At the same time a brief introduction of the Sensors and Actuators alongside some comparisons between the real robot and the modeled one will be given. 
+
+  * In the second part another introduction to the different ROS Visualisation Tools will be provided. Some examples of the simulated Robot Model in the dfferent tools will also be given. Finally a Walk-trough RVIZ using the Puzzlebot model wil be provided previous to the class activity of the students.
+  
+  * Activity (45 hours approx.) 
+    - Create a basic World in Gazebo  (30 min approx.) 
 
 ---
 
@@ -26,8 +31,12 @@
 
 ### Useful Links:
 
-* TBD
-
+* [Rotary Encoder](https://en.wikipedia.org/wiki/Rotary_encoder)
+* [Rotary Encoder](https://www.encoder.com/article-what-is-an-encoder)
+* [DC Motors](https://en.wikipedia.org/wiki/DC_motor)
+* [H-Bridge](https://www.youtube.com/watch?v=fVgnUWIWzZ8&ab_channel=NorthwesternRobotics)
+* [Dynamic Model of a DC Motor](https://www.ijser.org/researchpaper/Dynamic-Model-Analysis-of-a-DC-Motor-in-MATLAB.pdf)
+* [Kinematic Model of Differential Drive Robot](https://globaljournals.org/GJRE_Volume14/1-Kinematics-Localization-and-Control.pdf)
 ---
 
 ### Previously Used Links: 
