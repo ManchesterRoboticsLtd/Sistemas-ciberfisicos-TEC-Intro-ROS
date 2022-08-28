@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <master auto="start"/>
+    <include file="$(find puzzlebot_world)/launch/puzzlebot_tec_simple_world.launch"/>
+    <node pkg="open_loop_ctrl" name="square" type="square.py" args="" output="screen"/>
+</launch>
+
+  
