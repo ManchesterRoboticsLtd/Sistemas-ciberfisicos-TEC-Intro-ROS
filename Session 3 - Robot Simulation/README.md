@@ -19,7 +19,7 @@
 
   * In the second part another introduction to the different ROS Visualisation Tools will be provided. Some examples of the simulated Robot Model in the dfferent tools will also be given. Finally a Walk-trough RVIZ using the Puzzlebot model wil be provided previous to the class activity of the students.
   
-  * Activity (45 hours approx.) 
+  * Activity (45 minutes approx.) 
     - Create a basic World in Gazebo  (30 min approx.) 
 
 ---
