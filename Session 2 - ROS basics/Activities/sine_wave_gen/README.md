@@ -1,4 +1,4 @@
-# Session 1 Activities
+# Session 2 Activities
 
 ### Requirements
 * Ubuntu in VM or dual booting
