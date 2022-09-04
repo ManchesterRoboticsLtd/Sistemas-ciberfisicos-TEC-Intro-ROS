@@ -26,6 +26,15 @@
 
 ---
 
+## YouTube Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IF-vBDHNeUKEYU
+" target="_blank"><img src="http://img.youtube.com/vi/vBDHNeUKEYU/0.jpg" 
+alt="ROS Basics" width="300" border="10" /></a> 
+* [YouTube Video Link](https://www.youtube.com/watch?v=vBDHNeUKEYU&ab_channel=ManchesterRobotics)
+
+
+---
+
 ## Live recordings are stored in the following link
  * [Live Session Recordings](https://www.dropbox.com/sh/uhmpl2ei2oy1ir5/AAAtzdgwZzpkZ52GWuBSXgT4a?dl=0)
 
