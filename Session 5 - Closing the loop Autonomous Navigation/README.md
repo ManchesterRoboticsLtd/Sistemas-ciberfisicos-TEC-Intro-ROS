@@ -33,7 +33,7 @@
 
 ### Useful Links:
 * [Introduction to Autonomous Mobile Robots](https://ieeexplore.ieee.org/book/6267528)
-* [PID Control] (https://ieeexplore.ieee.org/document/1453566)
+* [PID Control](https://ieeexplore.ieee.org/document/1453566)
 * [Closed Loop Control](https://www.electronics-tutorials.ws/systems/closed-loop-system.html)
 * [Nonlineraities and robustness](https://ieeexplore.ieee.org/document/8603065)
 
