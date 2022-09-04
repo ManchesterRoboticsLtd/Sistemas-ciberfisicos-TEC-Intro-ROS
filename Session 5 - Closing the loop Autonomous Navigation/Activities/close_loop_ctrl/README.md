@@ -14,7 +14,9 @@
 ```
 roslaunch close_loop_ctrl straightLine.launch
 ```
-* the velocity published into the /wr topic will be displayed on the terminal
+* The velocity published into the */wr* topic will be displayed on the terminal
+<img src="https://user-images.githubusercontent.com/67285979/188336351-a936ad23-3c06-49b4-8c48-db160e41874d.png" alt="drawing" width="400"/>
+
 * Alternatively, you can use *rqt_graph* to verify if the node is subscribed to the /wr topic   
 
 ## Activity 1 
