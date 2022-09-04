@@ -7,6 +7,8 @@
 ## Activity 1
 * Add files to your catkin workspace, and compile them. The workspace whould look like the following image (without the **open_loop_ctrl** folder)
 <img src="https://user-images.githubusercontent.com/67285979/187089591-091a9058-dcc1-4abe-80fa-c4405f29bcea.png" alt="drawing" width="400"/>
+
+* Compile the files using *catkin_make* inside the catkin_ws folder
 * Use the launch file to launch your robot:
 
 ```
@@ -14,7 +16,7 @@ roslaunch puzzlebot_world puzzlebot_tec_simple_world.launch
 ```
 
 ## Activity 2
-*Install the teleop package using:
+* Install the teleop package using:
 ```
 sudo apt get install ros noetic teleop twist keyboard
 ```
