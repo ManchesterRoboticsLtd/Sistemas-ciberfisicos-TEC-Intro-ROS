@@ -14,7 +14,8 @@
 ```
 roslaunch close_loop_ctrl straightLine.launch
 ```
-* Use *rqt_graph* to verify if the node is subscribed to the /wr topic   
+* the velocity published into the /wr topic will be displayed on the terminal
+* Alternatively, you can use *rqt_graph* to verify if the node is subscribed to the /wr topic   
 
 ## Activity 1 
 * Implement a ROS node that computes the robot location using the information from the gazebo simulator (Gazebo Simulator Session 4).
