@@ -8,29 +8,43 @@
 * Compile the files using *catkin_make* from terminal
 
 ## Example 1
-* An example of a basic node to control the simuated puzzlebot can be found in open_loop_ctrl/scripts/straightLine.py
+* An example of a basic node to subscribe and publish data to the the PuzzleBot Gazebo Simulation can be found in close_loop_ctrl/scripts/straightLine.py
   - the example can be run using the launch command 
 
 ```
-roslaunch open_loop_ctrl straightLine.launch
+roslaunch close_loop_ctrl straightLine.launch
 ```
+* Use *rqt_graph* to verify if the node is subscribed to the /wr topic   
 
 ## Activity 1 
-* Drive the Gazebo model of the Puzzlebot in a Straight Line (2 meters)
-  - Modify the file straightLine.py (open_loop_ctrl/scripts/straightLine.py) to make the robot move for 2 meters using an open loop controller.
-  - Compile your program
-  - Use the previously defined launch file to launch all your nodes and gazebo
+* Implement a ROS node that computes the robot location using the information from the gazebo simulator (Gazebo Simulator Session 4).
+* It should subscribe to /wl and /wr, and publish the data to a suitable set of topics
+* The published messages could be a set floats, or you can combine them in any way you see fit
+
+* You can add your script to the close_loop_ctrl package or make your own package using 
 ```
-roslaunch open_loop_ctrl straightLine.launch
+catkin_create_pkg <package_name> [depend1] [depend2] [depend3]
+```
+* Use the teleop package to verify if your results are correct (session 3)
+```
+sudo apt get install ros noetic teleop twist keyboard
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
   - Note: You do not need to modify the CMake (unless you need to use a non-standard library)
 
 ## Activity 2
-* Drive the Gazebo model of the Puzzlebot in a square pth o a side lenght 2 meters.
-  - Modify the file square.py (open_loop_ctrl/scripts/square.py) to make the robot move in a suqare using an open loop controller.
-  - Compile your program
-  - Use the pre-made square.launch to launch all your nodes and gazebo
+* Modify the previous node to publish ed and etheta. 
+* Set a target, and drive the robot around, checking that the angle to the target and the distance from the target are updated correctly
+* Remember to wrap all angles to within 1 circle (wrap to pi or wrap to 2 pi)
+
+* Use the teleop package to verify if your results are correct (session 3)
 ```
-roslaunch open_loop_ctrl square.launch
+sudo apt get install ros noetic teleop twist keyboard
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
   - Note: You do not need to modify the CMake (unless you need to use a non-standard library)
+  
+## Activity 3
+* Move te robot (Gazebo Simulator Session 4) from an initial position to a final position using a Proportional Control (P-Control)
+<img src="https://user-images.githubusercontent.com/67285979/188335003-d01d67bd-c9a8-4fbb-b0f4-7acb7c05d4f3.png" alt="drawing" width="400"/>
+
