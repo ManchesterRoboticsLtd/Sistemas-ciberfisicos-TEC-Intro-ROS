@@ -1,4 +1,4 @@
-# Session 3 Activities
+# Session 5 Activities
 
 ### Requirements
 * Puzzlebot Gazebo simulator running (see Session 3)
