@@ -22,8 +22,8 @@
 ---
 
 ## Live recordings are stored in the following link
- * [Session 1 Live Session Recordings Group 1](https://www.dropbox.com/sh/uhmpl2ei2oy1ir5/AABCwIqB8Xv4eNxxM995k3Hqa/2022-08-08%2017.11.53%20Curso%20ROS%20ciberf%C3%ADsicos?dl=0)
- * [Session 1 Live Session Recordings Group 2](https://www.dropbox.com/sh/uhmpl2ei2oy1ir5/AAAowLY0Alyu1jBcxhodRS2Ka/2022-08-08%2022.04.34%20Curso%20Ros%20-%20Ciberf%C3%ADsicos?dl=0&lst=)
+ * [Session 1 Live Session Recordings Group 1](https://www.dropbox.com/sh/0qfzg3eiolpst0r/AAD04luJK4nuPPpa1X_AYjdSa/2022-08-08%2017.11.53%20Curso%20ROS%20ciberf%C3%ADsicos.mp4?dl=0)
+ * [Session 1 Live Session Recordings Group 2](https://www.dropbox.com/sh/0qfzg3eiolpst0r/AACbjAVJ-889pA0M4cM_NhwBa/2022-08-08%2022.04.34%20Curso%20Ros%20-%20Ciberf%C3%ADsicos.mp4?dl=0)
 
 ---
 
