@@ -2,8 +2,8 @@
 
 ### Requirements
 * Puzzlebot Gazebo simulator running (see Session 3)
-* Copy the folder open_loop_ctrl into your catkin_ws/src folder, the folder should look as follows
-<img src="https://user-images.githubusercontent.com/67285979/187089591-091a9058-dcc1-4abe-80fa-c4405f29bcea.png" alt="drawing" width="400"/>
+* Copy the folder close_loop_ctrl into your catkin_ws/src folder, the folder should look as follows
+<img src="https://user-images.githubusercontent.com/67285979/188336210-f823a50f-e26a-4968-9777-14740d895318.png" alt="drawing" width="400"/>
 
 * Compile the files using *catkin_make* from terminal
 
