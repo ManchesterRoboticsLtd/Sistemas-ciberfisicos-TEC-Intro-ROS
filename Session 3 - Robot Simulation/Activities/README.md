@@ -1,35 +1,42 @@
 # Session 3 Activities
 
 ### Requirements
-* Puzzlebot Gazebo simulator running (see Session 3)
-* Copy the folder open_loop_ctrl into your catkin_ws/src folder, the folder should look as follows
+* Puzzlebot Gazebo simulator running (see Session 3 presentation)
+
+
+## Activity 1
+* Add files to your catkin workspace, and compile them. The workspace whould look like the following image (without the **open_loop_ctrl** folder)
 <img src="https://user-images.githubusercontent.com/67285979/187089591-091a9058-dcc1-4abe-80fa-c4405f29bcea.png" alt="drawing" width="400"/>
-* Compile the files using catkin_make from terminal
-
-## Example 1
-* An example of a basic node to control the simuated puzzlebot can be found in open_loop_ctrl/scripts/straightLine.py
-  - the example can be run using the launch command 
+* Use the launch file to launch your robot:
 
 ```
-roslaunch open_loop_ctrl straightLine.launch
+roslaunch puzzlebot_world puzzlebot_tec_simple_world.launch
 ```
-
-## Activity 1 
-* Drive the Gazebo model of the Puzzlebot in a Straight Line (2 meters)
-  - Modify the file straightLine.py (open_loop_ctrl/scripts/straightLine.py) to make the robot move for 2 meters using an open loop controller.
-  - Compile your program
-  - Use the previously defined launch file to launch all your nodes and gazebo
-```
-roslaunch open_loop_ctrl straightLine.launch
-```
-  - Note: You do not need to modify the CMake (unless you need to use a non-standard library)
 
 ## Activity 2
-* Drive the Gazebo model of the Puzzlebot in a square pth o a side lenght 2 meters.
-  - Modify the file square.py (open_loop_ctrl/scripts/square.py) to make the robot move in a suqare using an open loop controller.
-  - Compile your program
-  - Use the pre-made square.launch to launch all your nodes and gazebo
+*Install the teleop package using:
 ```
-roslaunch open_loop_ctrl square.launch
+sudo apt get install ros noetic teleop twist keyboard
 ```
-  - Note: You do not need to modify the CMake (unless you need to use a non-standard library)
+* Run
+
+```
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+```
+* Input in the terminal the commands to move the robot (use the keyboard as explained in the terminal instructions)
+* See how the robot traverses accordingly the environment.
+
+## Activity 3
+
+* Open Gazebo using the command in the terminal:
+```
+gazebo
+```
+* Using the interface, create a world with the information described in Diagram 1.
+* Save the world with the name “custom_room1.world”.
+* Use the following command to spawn the puzzle in the world you saved.
+```
+roslaunch puzzlebot_world puzzlebot_tec_simple_world_edited.launch
+```
+<img src="https://user-images.githubusercontent.com/67285979/188334571-11f75f8a-f267-4cb7-8c93-180c75d6171d.png" alt="Diagram 1" width="400"/>
+
