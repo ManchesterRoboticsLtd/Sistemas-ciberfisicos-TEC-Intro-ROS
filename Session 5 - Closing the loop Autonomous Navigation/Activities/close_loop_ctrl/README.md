@@ -33,7 +33,7 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
   - Note: You do not need to modify the CMake (unless you need to use a non-standard library)
 
 ## Activity 2
-* Modify the previous node to publish ed and etheta. 
+* Modify the previous node to publish $e_d$ and $e_\theta$. 
 * Set a target, and drive the robot around, checking that the angle to the target and the distance from the target are updated correctly
 * Remember to wrap all angles to within 1 circle (wrap to pi or wrap to 2 pi)
 
