@@ -36,7 +36,8 @@ alt="ROS Basics" width="300" border="10" /></a>
 ---
 
 ## Live recordings are stored in the following link
- * [Live Session Recordings](https://www.dropbox.com/sh/uhmpl2ei2oy1ir5/AAAtzdgwZzpkZ52GWuBSXgT4a?dl=0)
+ * [Session 5 Live Session Recordings Group 1](https://www.dropbox.com/sh/r18u6hxaswzbmom/AABWmxLbAcWVUfzMS0o8ZwI-a?dl=0&preview=2022-09-05+17.12.20+Curso+ROS+ciberf%C3%ADsicos_PART1.mp4)
+ * [Session 5 Live Session Recordings Group 2](https://www.dropbox.com/sh/r18u6hxaswzbmom/AABWmxLbAcWVUfzMS0o8ZwI-a?dl=0&preview=2022-09-05+21.07.41+Curso+Ros+-+Ciberf%C3%ADsicos.mp4)
 
 ---
 
