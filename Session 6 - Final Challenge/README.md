@@ -16,7 +16,7 @@
 ---
 # Session 6 (12 Sept.): Final Session.
   * In this session, the final evaluation consisting of a multiple choice online exam will take place.
-  * A Q&A session for the final challenge will be delivered were the students are encourages to make questions about the final challenge, ROS and Robotics.
+  * A Q&A session for the final challenge will be delivered were the students are encouraged to make questions about the final challenge, ROS and Robotics.
   * Closing remarks from Manchester Robotics.
 
 ---
