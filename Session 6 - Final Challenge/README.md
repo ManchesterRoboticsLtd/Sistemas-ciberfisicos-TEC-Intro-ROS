@@ -22,7 +22,7 @@
 ---
 
 ## Live recordings are stored in the following link
- * TBD
+ * [Session 6 Live Session Recording](https://www.dropbox.com/s/cj6iz03liwoi10e/2022-09-12%2017.07.46%20Curso%20ROS%20ciberf%C3%ADsicos.mp4?dl=0)
 ---
 
 ### Previously Used Links: 
